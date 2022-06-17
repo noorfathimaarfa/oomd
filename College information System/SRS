@@ -1,0 +1,4 @@
+● student is associated with admission, examination and Course. Student does admission once and takes many courses.
+● staff is aggregation of non-teaching staff and faculty.Faculty is self associated.
+● a department can have many faculties and is associated as such. 
+● Exam is generalized into SEE and Internals as they use all the attributes of Exam.
